@@ -15,6 +15,8 @@ Hello! I'm Vladislav, a beginner C++ developer and a student at RTU MIREA. My jo
 
 I strive to become a professional in programming and am open to new knowledge and experiences.
 
+You can also visit my portfolio website: https://mordaredfox.github.io/
+
 </div>
 
 ---
