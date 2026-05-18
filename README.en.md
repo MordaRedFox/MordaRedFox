@@ -11,7 +11,7 @@
 ## 🧑‍💻 About me
 <div align="justify">
 
-Hello! I'm Vladislav, a beginner C++ developer and a student at RTU MIREA. My journey in IT began with a passion for development and a desire to make something with my own hands. I'm constantly learning new technologies and trying to keep up with trends. C++ captivated me from the very first days of my acquaintance with it due to its complexity and the ability to control the entire program. What's implicit and magical in other programming languages ​​emerges in its true form here. In my free time, I enjoy relaxing with video games, enjoying nature, and disassembling dirt bikes.
+Hello! My name is Vladislav, and I'm a budding developer and student at RTU MIREA. My journey in IT began with a passion for development and a desire to create digital products with my own hands. I'm constantly learning new technologies and exploring emerging IT trends. C++ struck me and intrigued me from the very first days I encountered it, thanks to its complexity and the ability to control the entire program. What's implicit and magical in other programming languages ​​emerges in its true form here. In my free time, I enjoy relaxing with video games, enjoying nature, and disassembling dirt bikes.
 
 I strive to become a professional in programming and am open to new knowledge and experiences.
 
