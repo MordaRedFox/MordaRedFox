@@ -18,6 +18,11 @@
 
 В свободное время люблю расслабляться в видеоиграх, наслаждаться природой и разбирать внедорожные мотоциклы. Я стремлюсь стать профессионалом в области программирования и аналитики, поэтому я открыт для новых знаний и опыта.
 
+Пожалуйста, ознакомьтесь с моим резюме:
+
+[![C++ / Dev](https://img.shields.io/badge/🖥️_Резюме-C++_/_Dev-00599C?logo=cplusplus&logoColor=white)](resume/Developer_C++_ru.pdf)
+[![Data Science](https://img.shields.io/badge/📊_Резюме-Data_Science-FF6F00?logo=python&logoColor=white)](resume/Data_Scientist_ru.pdf)
+
 Вы также можете посетить мой сайт-портфолио: [https://mordaredfox.github.io/](https://mordaredfox.github.io/)
 
 </div>

@@ -18,6 +18,11 @@ My main stack is **C++ 17/20** (from low-level memory management and design patt
 
 In my free time, I like to relax in video games, enjoy nature, and disassemble off-road motorcycles. I strive to become a professional in programming and analytics, so I am open to new knowledge and experience.
 
+Please take a look at my resume:
+
+[![C++ / Dev](https://img.shields.io/badge/🖥️_Резюме-C++_/_Dev-00599C?logo=cplusplus&logoColor=white)](resume/Developer_C++_en.pdf)
+[![Data Science](https://img.shields.io/badge/📊_Резюме-Data_Science-FF6F00?logo=python&logoColor=white)](resume/Data_Scientist_en.pdf)
+
 You can also visit my portfolio website: [https://mordaredfox.github.io/](https://mordaredfox.github.io/)
 
 </div>
